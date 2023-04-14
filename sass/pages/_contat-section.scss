@@ -1,0 +1,41 @@
+.contact-section{
+    position: relative;
+    margin-top: 50px;
+    .contaer{
+        .section{
+            margin-bottom: 80px;
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            img{
+                border-radius: 10px;
+                -webkit-border-radius: 10px;
+                -moz-border-radius: 10px;
+                -ms-border-radius: 10px;
+                -o-border-radius: 10px;
+                margin-right: 20px;
+                @include breakpoints(small){
+                    width: 50%;
+                }
+                @include breakpoints(mobile){
+                    max-width:  100%;
+                }
+                @include breakpoints(media){
+                    width: 50%;
+                }
+                }
+                .text{
+                    h3{
+                        font-size: 45px;
+                        font-weight: 500;
+                        margin-bottom: 30px;
+                    }
+                    p{
+                        font-size: 19px;
+                        line-height: 1.6;
+                    }
+                } 
+
+        }
+    }
+}

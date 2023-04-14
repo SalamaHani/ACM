@@ -1,0 +1,108 @@
+.section-Managemnt-Team{
+    margin-top: 50px;
+    .contaer{
+        .text{
+            font-size: 40px;
+        }
+        .sectipon-one{
+            margin-top: 50px;
+            display: flex;
+            flex-wrap: wrap;
+            .items{
+                margin-top: 30px;
+                overflow: hidden;
+                padding: 0 15px;
+                .img{
+                    img{
+                        border-top-right-radius: 15px;
+                        border-top-left-radius: 15px;
+                        height: 350px;
+                        object-fit: cover;
+                        -o-object-position: center top;
+                        object-position: center top;
+                    }
+                }
+                .card-contact{
+                    padding: 15px;
+                    position: relative;
+                    h3{
+                        font-size: 25px;
+                        font-weight: bold;
+                    }
+                    span{
+                        font-size: 15px;
+                        font-weight: bold;
+                    }
+                    a{
+                        position: absolute;
+                        padding: 5px 20px;
+                        border-radius: 5px;
+                        text-align: center;
+                        background-color: var(--said-color);
+                        -webkit-border-radius: 5px;
+                        -moz-border-radius: 5px;
+                        -ms-border-radius: 5px;
+                        -o-border-radius: 5px;
+                        text-decoration: none;
+                        color: white;
+                        margin-left: 200px;
+                        margin-top: -60px;
+                        top: 42px;
+                        right: 25px;
+                        font-weight: 200;
+                    }
+                }
+            }
+        }
+        .sectipon-tow{
+            margin-top: 50px;
+            display: flex;
+            flex-wrap: wrap;
+            .items{
+                margin-top: 30px;
+                overflow: hidden;
+                padding: 0 15px;
+                .img{
+                    img{
+                        border-top-right-radius: 15px;
+                        border-top-left-radius: 15px;
+                        height: 350px;
+                        object-fit: cover;
+                        -o-object-position: center top;
+                        object-position: center top;
+                    }
+                }
+                .card-contact{
+                    padding: 15px;
+                    position: relative;
+                    h3{
+                        font-size: 25px;
+                        font-weight: bold;
+                    }
+                    span{
+                        font-size: 15px;
+                        font-weight: bold;
+                    }
+                    a{
+                        position: absolute;
+                        padding: 5px 20px;
+                        border-radius: 5px;
+                        text-align: center;
+                        background-color: var(--said-color);
+                        -webkit-border-radius: 5px;
+                        -moz-border-radius: 5px;
+                        -ms-border-radius: 5px;
+                        -o-border-radius: 5px;
+                        text-decoration: none;
+                        color: white;
+                        margin-left: 200px;
+                        margin-top: -60px;
+                        top: 42px;
+                        right: 25px;
+                        font-weight: 200;
+                    }
+                }
+            }
+        }
+    }
+}

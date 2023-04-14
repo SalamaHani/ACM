@@ -1,0 +1,96 @@
+.partner-section{
+    background-color: black;
+    margin-top: 50px;
+    padding: 20px 0;
+    padding-bottom: 140px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    @include breakpoints(mobile){
+        padding-bottom: 40px;
+    }
+    .contaer{
+        display: flex;
+        justify-content: space-between;
+        color: white;
+        flex-wrap: wrap;
+        .row{
+            h3{
+                font-size: 45px;
+                line-height: 1.6;
+                @include breakpoints(mobile){
+                    font-size: 30px;
+                }
+                @include breakpoints(small){
+                    font-size: 30px;
+                }
+            }
+            .content-text{
+                font-size: 19px;
+                @include breakpoints(small){
+                    font-size: 16px;
+                }
+            }
+        }
+        .log{
+            text-align: center;
+            img{
+                padding: 0 40px;
+                max-width: 100%;
+                height: auto;
+                @include breakpoints(mobile){
+                    padding: 0;
+                    width: 40%;
+                    height: auto;
+                }
+                @include breakpoints(small){
+                    padding: 0;
+                }
+            }
+        }
+        .fot{
+            margin-top: 50px;
+            @include breakpoints(small){
+                margin-top: 20px;
+            }
+            @include breakpoints(mobile){
+                margin-top: 5px;
+            }
+            width: 100%;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            h4{
+                font-size: 25px;
+                @include breakpoints(mobile){
+                    font-size: 20px;
+                    text-align: center;
+                }
+            }
+            .but{
+                text-align: center;
+                padding: 10px 20px;
+                border:  1px solid white;
+                border-radius: 3px;
+                -webkit-border-radius: 3px;
+                -moz-border-radius: 3px;
+                -ms-border-radius: 3px;
+                -o-border-radius: 3px;
+                &:hover{
+                    background-color: white;
+                }
+                &:hover  a{
+                    color: black;
+                }
+                a{
+                    width: 50%;
+                    text-decoration: none;
+                    font-size: 18px;
+                    text-align: center;
+                    color: white;
+                }
+            }
+        }
+    }
+}

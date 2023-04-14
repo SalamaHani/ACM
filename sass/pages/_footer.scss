@@ -1,0 +1,108 @@
+.footer{
+    // 
+    background-color: #f0f0f0;
+    position: relative;
+    // padding-top: 20px;
+    @include breakpoints(mobile){
+        padding-top: 20px;
+    }
+    .custom-shape-divider-top-1680562961{
+        @include breakpoints(mobile){
+            display: none;
+        }
+    }
+    .contenr{
+        color: black;
+    }
+    .top{
+        width: 100%;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        @include breakpoints(small){
+            
+        }
+        @include breakpoints(mobile){
+            font-size:26px;
+    }
+        h6{
+            color: #000;
+            font-family: "Playfair Display",serif;
+            font-size: 1.125rem;
+            font-weight: 700;
+            letter-spacing: 0;
+            margin: 15px 0px;
+        }
+        ul{
+            padding: 0;
+            li{
+                padding: 10px 0;
+                a{
+                    color: #000;
+                    text-decoration: none;
+                    font-size: 1rem;
+                    font-weight: 600;
+                }
+            }
+        }
+    }
+    .buttom{
+        margin: 60px 0;
+        p{
+            line-height: 1.4;
+            font-size: 12px;
+
+
+        }
+    }
+}
+.custom-shape-divider-bottom-1680974983 {
+    @include breakpoints(mobile){
+        display: none;
+}
+    position: absolute;
+    top: -432px;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    z-index: -1;
+}
+
+.custom-shape-divider-bottom-1680974983 svg {
+    position: relative;
+    display: block;
+    width: calc(140% + 1.3px);
+    height: 431px;
+}
+
+.custom-shape-divider-bottom-1680974983 .shape-fill {
+    fill: #f0f0f0;
+}
+.custom-shape-divider-top-1680562644 {
+    @include breakpoints(mobile){
+        display: none;
+    }
+    position: absolute;
+    top: -222px;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+}
+
+.custom-shape-divider-top-1680562644 svg {
+    position: relative;
+    display: block;
+    width: calc(118% + 1.3px);
+    height: 235px;
+}
+
+.custom-shape-divider-top-1680562644 .shape-fill {
+    fill: #f0f0f0;
+}

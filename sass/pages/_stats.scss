@@ -1,0 +1,118 @@
+.queq{
+    background-color: black;
+    width: 100%;
+    height: 250px;
+    display: flex;
+        align-items: center;
+        justify-content: center;
+        
+    .contaer{
+        p{
+            font-size: 35px;
+            font-weight: bold;
+            color: white;
+            padding:  50px 0;
+            font-family: "Playfair Display",serif;
+            @include breakpoints(small){
+                margin-top: 0;
+                font-size: 30px;
+            }
+            @include breakpoints(mobile){
+                margin-top: 0;
+                font-size: 25px;
+            }
+        }
+    }
+}
+.stats{
+    margin-top: 100px;
+    position: relative;
+    margin-bottom: 100px;
+    .contaer{
+        .contact{
+            border: 3px solid black;
+            padding: 80px;
+            @include breakpoints(small){
+                padding: 50px;
+                border: none;
+            }
+            @include breakpoints(mobile){
+                padding:  20px;
+                border: none;
+            }
+        h2{
+            font-size: 36px;
+            font-weight: bold;
+            padding: 20px 10px;
+            background-color: white;
+            text-align: center;
+            margin-top: -110px;
+            margin-bottom: 20px;
+            @include breakpoints(small){
+                margin-top: 0;
+                font-size: 30px;
+            }
+            @include breakpoints(mobile){
+                margin-top: 0;
+                font-size: 25px;
+            }
+        }
+        h3{
+            font-size: 30px;
+            font-weight: 500;
+            padding: 20px 10px;
+            background-color: white;
+            text-align: center;
+            margin-bottom: -103px;
+            @include breakpoints(small){
+                margin-bottom: 0;
+                font-size: 25px;
+            }
+            @include breakpoints(mobile){
+                margin-bottom: 0;
+                font-size: 20px;
+            }
+        }
+        p{
+            font-size: 18px;
+            line-height: 1.6;
+            @include breakpoints(mobile){
+                text-align: center;
+            }
+        }
+        .stat-contet{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            .rows{
+                width: 100%;
+                display: flex;
+                align-items: center;
+                flex-wrap: wrap;
+                .item{
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    margin: 15px 0;
+                    .value{
+                        font-size: 4.5rem;
+                        font-family: "Playfair Display",serif;
+                        font-weight: 700;                    
+                        margin-bottom: 5px;
+                        @include breakpoints(small){
+                            font-size: 3.5rem;
+                        }
+                        @include breakpoints(mobile){
+                            font-size: 2.5rem;
+                        }
+                    }
+                    .labl{
+                        font-size: 18px;
+                        font-weight: 500;
+                    }
+                }
+            }
+        }
+    }
+    }
+}

@@ -1,0 +1,136 @@
+*,::after,::before{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+h1,h2,h3,h4,h5,h6{
+    font-family: "Playfair Display",serif;
+}
+a{
+    text-decoration: none;
+    cursor: pointer;
+}
+li{
+    list-style: none;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+cursor: pointer;
+}
+input{
+    border: none;
+    outline: none;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+body{
+    position: relative;
+    overflow-x: hidden;
+    font-family: 'IBM Plex Serif', serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Roboto', sans-serif;
+    height: 100%;
+    &.has-pop{
+        overflow: hidden;
+    }
+    &.has-ser{
+        overflow: hidden;
+    }
+}
+i{
+    color: white;
+    font-size: 18px;
+}
+html{
+    scroll-behavior: smooth;
+}
+h1,h2,h3{
+    font-weight: bold;
+}
+.contenr{
+    overflow: hidden;
+    padding-left: 180px;
+    padding-right: 180px;
+    margin-left: auto;
+    margin-right: auto;
+    @include breakpoints(small){
+        padding-left: 80px;
+        padding-right: 80px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    @include breakpoints(mobile){
+        padding-left: 30px;
+        padding-right: 30px;
+        margin-left: auto;
+        margin-right: auto;
+        
+}
+@include breakpoints(media){
+    padding-left: 80px;
+        padding-right: 80px;
+        margin-left: auto;
+        margin-right: auto;
+}
+}
+.contecet-contact{
+    overflow: hidden;
+    padding-left: 110px;
+    padding-right: 110px;
+    margin-left: auto;
+    margin-right: auto;
+    @include breakpoints(small){
+        padding-left: 80px;
+        padding-right: 80px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    @include breakpoints(mobile){
+        padding-left: 30px;
+        padding-right: 30px;
+        margin-left: auto;
+        margin-right: auto;
+        
+}
+@include breakpoints(media){
+    padding-left: 80px;
+        padding-right: 80px;
+        margin-left: auto;
+        margin-right: auto;
+}
+}
+.contaer{
+    overflow: hidden;
+    padding-left: 200px;
+    padding-right: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    @include breakpoints(small){
+        padding-left: 90px;
+        padding-right: 90px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    @include breakpoints(mobile){
+        padding-left: 30px;
+        padding-right: 30px;
+        margin-left: auto;
+        margin-right: auto;
+        
+}
+@media (min-width:530px) and  (max-width:767px) {
+    padding-left: 90px;
+    padding-right: 90px;
+    margin-left: auto;
+    margin-right: auto;
+}
+@include breakpoints(media){
+    padding-left: 80px;
+        padding-right: 80px;
+        margin-left: auto;
+        margin-right: auto;
+}
+}

@@ -1,0 +1,637 @@
+{
+
+    "dector":[
+        {  "name":"Larry Flick V",
+        "title":"Chief Executive Officer BHHS Fox & Roach, REALTORS®",
+        "img":"/assets/images/IMG_5038-e1642972615559.jpg",
+        "contact":{
+            "phone":" 610.889.7776",
+            "email":"larry.flickv@foxroach.com"
+        }
+    },
+        {  "name":"Joan Docktor",
+        "title":"Presiden BHHS Fox & Roach, REALTORS®",
+        "img":"/assets/images/DocktorJoan-e1642972591672.jpg",
+        "contact":{
+            "phone":" 610.889.7767",
+            "email":" joan.docktor@foxroach.com"
+        }
+    }
+    ]
+        ,
+    "ManagementTeam":[
+        {
+            "name":"Steve Booth",
+            "title":"Regional Sales Manager",
+            "img":"/assets/images/BoothSteve-one.jpg",
+            "contact":{
+                "phone":" 609.399.0041",
+                "email":" Stephen.Booth@foxroach.com"
+            }
+        },
+        {
+            "name":"Richard Martel",
+            "title":"Regional Sales Manager",
+            "img":"/assets/images/MartelRichard-scaled-tow.jpg",
+            "contact":{
+                "phone":"609.737.9100",
+                "email":" Ric.Martel@foxroach.com"
+            }
+        },
+        {
+            "name":"Debbie McCabe",
+            "title":"Regional Sales Manager",
+            "img":"/assets/images/McCabeDebbie-tree.jpg",
+            "contact":{
+                "phone":"  610.651.2700",
+                "email":" Debbie.McCabe@foxroach.com"
+            }
+        },
+        {
+            "name":"Brad Patt",
+            "title":"Regional Sales Manager",
+            "img":"/assets/images/PattBrad-scaled-four.jpg",
+            "contact":{
+                "phone":"610.360.5188",
+                "email":"brad.patt@foxroach.com"
+            }
+        },
+        {
+            "name":"Alan Reburn",
+            "title":"Regional Sales Manager",
+            "img":"/assets/images/ReburnAlan-1-five.jpg",
+            "contact":{
+                "phone":"610.444.9090",
+                "email":"Alan.Reburn@foxroach.com"
+            }
+        },
+        
+        {
+            "name":"David Rickel",
+            "title":"Regional Sales Manager",
+            "img":"/assets/images/Rickel-David-six.png",
+            "contact":{
+                "phone":"856.616.2641",
+                "email":"David.Rickel@foxroach.com"
+            }
+        }
+    ],
+    "LeadershipTeam":[
+        {
+            "name":"Patricia O’Herrick",
+            "title":"Vice President & Director of Education",
+            "img":"/assets/images/headshot.png",
+            "contact":{
+                "phone":"267.933.6860",
+                "email":"patricia.o'herrick@foxroach.com"
+            }
+        },
+        {
+            "name":"Susan Patt",
+            "title":"VICE PRESIDENT & DIRECTOR, BROKERAGE OPERATIONS",
+            "img":"/assets/images/PattSusan-scaled.jpg",
+            "contact":{
+                "phone":"610.509.7668",
+                "email":"susan.patt@foxroach.com"
+            }
+        },
+        {
+            "name":"Linda Zanzinger",
+            "title":"VICE PRESIDENT & DIRECTOR, RELOCATION",
+            "img":"/assets/images/ZanzingerLinda-1.jpg",
+            "contact":{
+                "phone":" 610.595.3149",
+                "email":" linda.zanzinger@foxroach.com"
+            }
+        }
+    ],
+    "Pennsylvania":[
+        {
+            "name":"Christina Acerra",
+            "title":"Center Valley, PA",
+            "img":"/assets/images/AcerraChristina.jpg",
+            "contact":{
+                "phone":"610.282.4444",
+                "email":"Christina.Acerra@foxroach.com"
+            }
+        },
+        {
+            "name":"Linda Amsterdam",
+            "title":"Society Hill, Philadelphia, PA",
+            "img":"/assets/images/Linda_Amsterdam-final.png",
+            "contact":{
+                "phone":"215.627.6005",
+                "email":" Linda.Amsterdam@foxroach.com"
+            }
+        },
+        {
+            "name":"Barry Beal",
+            "title":"Malvern, PA",
+            "img":"/assets/images/BealBarry-scaled.jpg",
+            "contact":{
+                "phone":"610.647.2600",
+                "email":"Barry.Beal@foxroach.com"
+            }
+        },
+        {
+            "name":"Carl Becht",
+            "title":"Wayne-Devon, PA",
+            "img":"/assets/images/BechtCarl-scaled.jpg",
+            "contact":{
+                "phone":" 610.651.2700",
+                "email":"carl.becht@foxroach.com"
+            }
+        },
+        {
+            "name":"Dawn Ciganik",
+            "title":"Jenkintown, PA",
+            "img":"/assets/images/CiganikDawn.jpg",
+            "contact":{
+                "phone":"215.619.0520",
+                "email":" dawn.ciganik@foxroach.com"
+            }
+        },
+        {
+            "name":"Wendy Civitella",
+            "title":"Rosemont, PA",
+            "img":"/assets/images/CivitellaWendy-final.png",
+            "contact":{
+                "phone":" 610.527.6400",
+                "email":"Wendy.Civitella@foxroach.com"
+            }
+        },
+        {
+            "name":"Joanne Davidow",
+            "title":"The Harper, Rittenhouse Square, PA",
+            "img":"/assets/images/Joanne-Davidow-new-headshot-e1676567384619.jpg",
+            "contact":{
+                "phone":"215.546.0550",
+                "email":"Joanne.Davidow@foxroach.com"
+            }
+        },
+        {
+            "name":"Matt DiDomenico",
+            "title":"Newtown Square, PA",
+            "img":"/assets/images/DiDomenicoMatt-1-scaled.jpg",
+            "contact":{
+                "phone":"610.353.6200",
+                "email":" Matt.DiDomenico@foxroach.com"
+            }
+        },
+        {
+            "name":"Tom Dixon",
+            "title":"Haverford, PA",
+            "img":"/assets/images/DixonTom-1-scaled.jpg",
+            "contact":{
+                "phone":"610.649.4500",
+                "email":"tom.dixon@foxroach.com"
+            }
+        },
+        {
+            "name":"Linda Emerson",
+            "title":"Doylestown, PA",
+            "img":"/assets/images/EmersonLinda.jpg",
+            "contact":{
+                "phone":"215.348.1700",
+                "email":" Linda.Emerson@foxroach.com"
+            }
+        },
+        {
+            "name":"Tom Englett",
+            "title":"The Harper, Rittenhouse Square, PA",
+            "img":"/assets/images/EnglettTom.jpg",
+            "contact":{
+                "phone":" 215.627.6005",
+                "email":"tom.englett@foxroach.com"
+            }
+        },
+        {
+            "name":"Annette Fenning",
+            "title":"West Chester, PA",
+            "img":"/assets/images/FenningAnnette.jpg",
+            "contact":{
+                "phone":"610.431.1100",
+                "email":"Annette.Fenning@foxroach.com"
+            }
+        },
+        {
+            "name":"Linda Furnari-Rose",
+            "title":"Allentown, PA",
+            "img":"/assets/images/FunariRoseLindaHR-scaled.jpg",
+            "contact":{
+                "phone":" 610.398.9888",
+                "email":"Linda.FurnariRose@foxroach.com"
+            }
+        },
+        {
+            "name":"Barb Hodick",
+            "title":"Macungie, PA",
+            "img":"/assets/images/HodickBarb-1.jpg",
+            "contact":{
+                "phone":"484.519.4444",
+                "email":"Barb.Hodick@foxroach.com"
+            }
+        },
+        {
+            "name":"Suzy Hoyle",
+            "title":"Media, PA",
+            "img":"/assets/images/HoyleSuzy-copy.jpg",
+            "contact":{
+                "phone":" 267-408-9022",
+                "email":"Suzy.Hoyle@foxroach.com"
+            }
+        },
+        {
+            "name":"Mary Lou Graham",
+            "title":"Exton, PA",
+            "img":"/assets/images/GrahamMaryLou.jpg",
+            "contact":{
+                "phone":"484.875.2600",
+                "email":"MaryLou.Graham@foxroach.com"
+            }
+        },
+        {
+            "name":"Kevin Loughrane",
+            "title":"Harleysville, PA",
+            "img":"/assets/images/LoughranKevin-Harleysville.jpg",
+            "contact":{
+                "phone":"215.256.6543",
+                "email":"Kevin.Loughran@foxroach.com"
+            }
+        },
+        {
+            "name":"Jeff Macdonell",
+            "title":"New Hope & Yardley-Newtown, PA",
+            "img":"/assets/images/MacdonellJeff.jpg",
+            "contact":{
+                "phone":"215.860.9300",
+                "email":"Jeff.Macdonell@foxroach.com"
+            }
+        },
+        {
+            "name":"Frank May",
+            "title":"Bryn Mawr, PA",
+            "img":"/assets/images/MayFrank.png",
+            "contact":{
+                "phone":"610.527.0900",
+                "email":"Frank.May@foxroach.com"
+            }
+        },
+        {
+            "name":"Linda Ostrowsky",
+            "title":"Blue Bell, PA",
+            "img":"/assets/images/OstrowskyLinda.jpg",
+            "contact":{
+                "phone":" 215.542.2200",
+                "email":"Linda.Ostrowsky@foxroach.com"
+            }
+        },
+        {
+            "name":"Glenn Paisley",
+            "title":"Easton, PA",
+            "img":"/assets/images/PaisleyGlen2-scaled.jpg",
+            "contact":{
+                "phone":"610.258.0808",
+                "email":"Glen.Paisley@foxroach.com"
+            }
+        },
+        {
+            "name":"Kathie Ramer",
+            "title":"Haverford, PA",
+            "img":"/assets/images/RamerKathyjpg.jpg",
+            "contact":{
+                "phone":"610.649.4500",
+                "email":"Kathie.Ramer@foxroach.com"
+            }
+        },
+        {
+            "name":"Darryl Ridgeway",
+            "title":"Society Hill, Philadelphia, PA",
+            "img":"/assets/images/RidgewayDarryl.jpg",
+            "contact":{
+                "phone":"215.806.5435",
+                "email":"darryl.ridgeway@foxroach.com"
+            }
+        },
+        {
+            "name":"Laura Selverian",
+            "title":"Collegeville, PA",
+            "img":"/assets/images/SelverianLaura.jpg",
+            "contact":{
+                "phone":"610.831.5300",
+                "email":"Laura.Selverian@foxroach.com"
+            }
+        },
+        {
+            "name":"Mary Anne Steel",
+            "title":"Chadds Ford, PA",
+            "img":"/assets/images/SteelMaryAnn-scaled.jpg",
+            "contact":{
+                "phone":" 610.388.3700",
+                "email":"MaryAnne.Steel@foxroach.com"
+            }
+        },
+        {
+            "name":"Jerry Strusowski",
+            "title":"Kennett Square, PA",
+            "img":"/assets/images/StrusowskiJerry.jpg",
+            "contact":{
+                "phone":"610.444.9090",
+                "email":"Jerry.Strusowski@foxroach.com"
+            }
+        },
+        {
+            "name":"Renee Swillo",
+            "title":"New Hope, PA",
+            "img":"/assets/images/SwilloRenee-copy.png",
+            "contact":{
+                "phone":"215.862.3385",
+                "email":"Renee.Swillo@foxroach.com"
+            }
+        },
+        {
+            "name":"Anne Tulloch",
+            "title":"Spring House, PA",
+            "img":"/assets/images/TullochAnne-1.jpg",
+            "contact":{
+                "phone":"215.542.1770",
+                "email":" Anne.Tulloch@foxroach.com"
+            }
+        },
+        {
+            "name":"Kristine Uhlenbrock",
+            "title":"Southampton, PA",
+            "img":"/assets/images/UhlenbrockKristine.jpg",
+            "contact":{
+                "phone":" 215.504.7584",
+                "email":"kristine.uhlenbrock@foxroach.com"
+            }
+        },
+        {
+            "name":"Sue Walsh",
+            "title":"Chestnut Hill, PA",
+            "img":"/assets/images/WalshSue-scaled.jpg",
+            "contact":{
+                "phone":"215.247.3750",
+                "email":" Sue.Walsh@foxroach.com"
+            }
+        },
+        {
+            "name":"Steve Yost",
+            "title":"Bethlehem, PA",
+            "img":"/assets/images/YostSteveHR-scaled.jpg",
+            "contact":{
+                "phone":"610.865.0033",
+                "email":" Steve.Yost@foxroach.com"
+            }
+        }
+        
+    ],
+    "NewJersey":[
+        {
+            "name":"Bill Alexander",
+            "title":"Mount Laurel, NJ",
+            "img":"/assets/images/AlexanderBill.jpg",
+            "contact":{
+                "phone":"856.222.0077",
+                "email":" Bill.Alexander@foxroach.com"
+            }
+        },
+        {
+            "name":"Graeme Atkinson",
+            "title":"Middletown, NJ",
+            "img":"/assets/images/AtkinsonGraeme.jpg",
+            "contact":{
+                "phone":"732.747.5600",
+                "email":" Graeme.Atkinson@foxroach.com"
+            }
+        },
+        {
+            "name":"Anna Convery",
+            "title":"Hopewell Valley, NJ",
+            "img":"/assets/images/ConveryAnna.jpg",
+            "contact":{
+                "phone":"732.398.2600",
+                "email":"Anna.Convery@foxroach.com"
+            }
+        },
+        {
+            "name":"Jeff Crisalli",
+            "title":"Brick, NJ",
+            "img":"/assets/images/CrisalliJeff-1-scaled.jpg",
+            "contact":{
+                "phone":" 732.920.6060",
+                "email":"Jeff.Crisalli@foxroach.com"
+            }
+        },
+        {
+            "name":"Dana D’Agostino-Ryser",
+            "title":"Holmdel, NJ",
+            "img":"/assets/images/DAgostinoRyserDanaHR.jpg",
+            "contact":{
+                "phone":"732.946.3200",
+                "email":"Dana.Dagostino-Ryser@foxroach.com"
+            }
+        },
+        {
+            "name":"John Digenni",
+            "title":"Sea Isle City, NJ",
+            "img":"/assets/images/John-Digenni.jpg",
+            "contact":{
+                "phone":"",
+                "email":""
+            }
+        },
+        {
+            "name":"John Geraci",
+            "title":"Northfield, NJ",
+            "img":"/assets/images/GeraciJohn.jpg",
+            "contact":{
+                "phone":"609.646.1900",
+                "email":" John.Geraci@foxroach.com"
+            }
+        },
+        {
+            "name":"Maria Giarratano",
+            "title":"Cherry Hill, NJ",
+            "img":"/assets/images/GiarratanoM.jpg",
+            "contact":{
+                "phone":"856.428.8000",
+                "email":" Maria.G@foxroach.com"
+            }
+        },
+        {
+            "name":"Margaret Guber-Nulty (Pinky)",
+            "title":"Margate, NJ",
+            "img":"/assets/images/NultyMargaret.jpg",
+            "contact":{
+                "phone":"609.822.4200",
+                "email":"Margaret.Nulty@foxroach.com"
+            }
+        },
+        {
+            "name":"Rich Huder",
+            "title":"Marlton-Voorhees & Medford, NJ",
+            "img":"/assets/images/HuderRichard.jpg",
+            "contact":{
+                "phone":" 609.654.1888",
+                "email":"Richard.Huder@foxroach.com"
+            }
+        },
+        {
+            "name":"Pam Kotter",
+            "title":"Mullica Hill, NJ",
+            "img":"/assets/images/KotterPam.jpg",
+            "contact":{
+                "phone":" 856.343.6000",
+                "email":"Pam.Kotter@foxroach.com"
+            }
+        },
+        {
+            "name":"Michelle Krzywulak",
+            "title":"Robbinsville, NJ",
+            "img":"/assets/images/KrzywulakMichelle-1.jpg",
+            "contact":{
+                "phone":"609.417.9777",
+                "email":"michelle.krzywulak@foxroach.com"
+            }
+        },
+        {
+            "name":"Wendy Merkovitz",
+            "title":"Princeton, NJ",
+            "img":"/assets/images/MerkovitzWendy.jpg",
+            "contact":{
+                "phone":"609.921.2600",
+                "email":"Wendy.Merkovitz@foxroach.com"
+            }
+        },
+        {
+            "name":"Theano Meyers",
+            "title":"Ocean Township, NJ",
+            "img":"/assets/images/737664_07072022164810-1-e1669926201391.jpeg",
+            "contact":{
+                "phone":" 732-261-6498",
+                "email":"Theano.Meyers@foxroach.com"
+            }
+        },
+        {
+            "name":"Jamie Naame",
+            "title":"Haddonfield, NJ",
+            "img":"/assets/images/NaameJ.jpeg",
+            "contact":{
+                "phone":"856.428.2600",
+                "email":"Jamie.Naame@foxroach.com"
+            }
+        },
+        {
+            "name":"Kevin O’Rourke",
+            "title":"Shrewsbury, NJ",
+            "img":"/assets/images/ORourkeKevin.jpg",
+            "contact":{
+                "phone":"732.842.6009",
+                "email":"732.842.6009"
+            }
+        },
+        {
+            "name":"Lisa Payne",
+            "title":"Turnersville, NJ",
+            "img":"/assets/images/PayneLisaAnn.jpg",
+            "contact":{
+                "phone":"856.227.8900",
+                "email":"Lisaann.Payne@foxroach.com"
+            }
+        },
+        {
+            "name":"Nicole Presnall",
+            "title":"Ocean City, NJ",
+            "img":"/assets/images/PresnallNicole.jpg",
+            "contact":{
+                "phone":"609.399.8200",
+                "email":"Nicole.Presnall@foxroach.com"
+            }
+        },
+        {
+            "name":"PJ Rotchford",
+            "title":"Rumson, NJ",
+            "img":"/assets/images/RotchfordPJ-scaled.jpg",
+            "contact":{
+                "phone":"732.530.2800",
+                "email":" Philip.Rotchford@foxroach.com"
+            }
+        },
+        {
+            "name":"Nicole Snyderman",
+            "title":"Marlton - Voorhees & Medford, NJ",
+            "img":"/assets/images/SnydermanNicole.jpg",
+            "contact":{
+                "phone":"856.810.5300",
+                "email":"nicole.snyderman@foxroach.com"
+            }
+        },
+        {
+            "name":"Bob Sutton",
+            "title":"Brigantine, NJ",
+            "img":"/assets/images/SuttonRobert.jpg",
+            "contact":{
+                "phone":"609.264.8444",
+                "email":"Robert.Sutton@foxroach.com"
+            }
+        },
+        {
+            "name":"Margie Venturi",
+            "title":"Vineland, NJ",
+            "img":"/assets/images/VenturiMargie.jpg",
+            "contact":{
+                "phone":"856.691.0091",
+                "email":"Margaret.Venturi@foxroach.com"
+            }
+        },
+        {
+            "name":"Sherri Westervelt",
+            "title":"Mullica Hill North, NJ ",
+            "img":"/assets/images/WesterveltSherri-1-scaled.jpg",
+            "contact":{
+                "phone":"856.478.9600",
+                "email":"sherri.westervelt@foxroach.com"
+            }
+        }
+    ],
+    "Delaware":[
+        {
+            "name":"Ed Breland",
+            "title":"Newark, DE",
+            "img":"/assets/images/BrelandEd-scaled.jpg",
+            "contact":{
+                "phone":" 302.368.1621",
+                "email":"Edward.Breland@foxroach.com"
+            }
+        },
+        {
+            "name":"Walt Hurtt",
+            "title":"Walt Hurtt ",
+            "img":"/assets/images/HurttWalt.jpeg",
+            "contact":{
+                "phone":"302.477.5500",
+                "email":"Walt.Hurtt@foxroach.com"
+            }
+        },
+        {
+            "name":"Gail Renulfi",
+            "title":"Hockessin, DE",
+            "img":"/assets/images/RenulfiGail.jpg",
+            "contact":{
+                "phone":"302.999.9999",
+                "email":"Gail.Renulfi@foxroach.com"
+            }
+        },
+        {
+            "name":"Jeff Crisalli",
+            "title":"Brick, NJ",
+            "img":"/assets/images/CrisalliJeff-1-scaled.jpg",
+            "contact":{
+                "phone":" 732.920.6060",
+                "email":"Jeff.Crisalli@foxroach.com"
+            }
+        }
+    ]
+}

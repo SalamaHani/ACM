@@ -1,0 +1,90 @@
+.sectionTeam{
+    margin-top: 100px;
+    .contaer{
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+        .left{
+            padding: 0 5px;
+            p{
+                opacity: .6;
+                margin-bottom: 2px;
+                font-size: 18px;
+            }
+            h1{
+                font-size: 50px;
+                font-weight: bold;
+                @include breakpoints(small){
+                    font-size: 30px;
+                }
+            }
+        }
+        .rhigt{
+            padding: 0 5px;
+            p{
+                font-size: 18px;
+                line-height: 1.6;
+                font-weight: 430;
+            }
+        }
+    }
+}
+.sectionItems{
+    .contaer{
+        .dectorsec{
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+        .box{
+            margin-top: 30px;
+            overflow: hidden;
+            padding: 0 15px;
+            .img{
+                img{
+                    border-radius: 15px;
+                    -webkit-border-radius: 15px;
+                    -moz-border-radius: 15px;
+                    -ms-border-radius: 15px;
+                    -o-border-radius: 15px;
+                    height: 450px;
+                    object-fit: cover;
+                    -o-object-position: center top;
+                    object-position: center top;
+                }
+                
+}
+            .contact{
+                overflow: hidden;
+                width: 85%;
+                position: relative;
+                background-color: white;
+                padding: 15px 22px;
+                border-bottom-right-radius: 10px;
+                border-top-right-radius: 10px;
+                margin-top: -80px;
+                padding-bottom: 30px;
+                h3{
+                    font-weight: bold;
+                    font-size: 35px;
+                }
+                span{
+                    font-weight: bold;
+                    max-width:300px ;
+                }
+            }
+            .contact-footer{
+                width: 85%;
+                padding: 20px 22px;
+                background-color: black;
+                border-bottom-right-radius: 10px;
+                cursor: pointer;
+                a{
+                    text-decoration: none;
+                    color: white;
+                    font-size: 18px;
+                }
+            }
+        }
+        }
+}
+    }

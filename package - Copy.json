@@ -1,0 +1,42 @@
+{
+  "name": "berkshire_hathawa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "patrick Muriungi",
+  "license": "ISC",
+  "dependencies": {
+    "@fancyapps/ui": "^5.0.15",
+    "@fortawesome/fontawesome-free": "^6.3.0",
+    "autoprefixer": "10.4.5",
+    "bootstrap": "^5.3.0-alpha1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.6.4",
+    "laravel-mix": "^6.0.49",
+    "swiper": "^9.1.1"
+  },
+  "devDependencies": {
+    "resolve-url-loader": "^5.0.0",
+    "sass": "^1.58.0",
+    "sass-loader": "^12.1.0"
+  },
+  "scripts": {
+    "dev": "npm run development",
+    "development": "mix",
+    "watch": "mix watch",
+    "watch-poll": "mix watch -- --watch-options-poll=1000",
+    "hot": "mix watch --hot",
+    "prod": "npm run production",
+    "production": "mix --production"
+  },
+  "resolutions": {
+    "autoprefixer": "10.4.5"
+  },
+  "keywords": [
+    "Bootstrap",
+    "bootstrap-v5",
+    "sass",
+    "learn-bootstrap",
+    "learn-sass"
+  ],
+  "description": ""
+}

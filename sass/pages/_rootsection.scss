@@ -1,0 +1,83 @@
+.root-section{
+    .contaer{
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        position: relative;
+        margin-top: -33%;
+        @include breakpoints(small){
+            margin: 0;
+            align-items: flex-start;
+        }
+        @include breakpoints(mobile){
+            flex-wrap: wrap;
+        }
+        @media (max-width:430px) {
+            flex-wrap: wrap;
+        }
+        .left-said{
+            margin-top: 45%;
+            margin-right: 10px;
+            @include breakpoints(small){
+                margin-top: 0;
+            }
+            @include breakpoints(mobile){
+                font-size:26px;
+        }
+            .text{
+                color: black;
+                h2{
+                    margin-bottom: 20px;
+                    font-size: 40px;
+                    font-weight: bold;
+                    @include breakpoints(small){
+                        font-size: 30px;
+                    }
+                    @include breakpoints(mobile){
+                        font-size: 30px;
+                }
+                @media (max-width:430px) {
+            flex-wrap: wrap;
+        }
+                }
+                p{
+                    font-size: 18px;
+                    line-height: 1.6;
+
+                }
+            }
+        }
+        .rhigt-said{
+            width: 90%;
+            position: relative;
+            @include breakpoints(small){
+                width: 100%;
+            }
+            @include breakpoints(mobile){
+                width: 100%;
+        }
+        @media (max-width:430px) {
+            width: 100%;
+        }
+            img{
+                border-radius: 10px;
+                position: relative;
+            }
+            .text-img{
+                max-width: 420px;
+                margin-top: 10px;
+                float: right;
+                @media (min-width:530px) and  (max-width:767px){
+                    float: left;
+                }
+                span{
+                    font-size: 24px;
+                    color: var(--said-color);
+                    line-height: 1.6;
+                }
+
+            }
+        }
+    }
+}
